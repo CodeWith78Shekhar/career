@@ -24,8 +24,6 @@ const descriptionSchema = new mongoose.Schema({
     responsibilities :{
         type:[String]
     },
-
-   
    
 })
 
